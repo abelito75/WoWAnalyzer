@@ -548,7 +548,6 @@
   "paladin.holy.modules.abilities.crusadersMightTalent": "When you are using <0/> it is important to use <1/> often enough to benefit from the talent. Use a different talent if you are unable to.",
   "paladin.holy.modules.abilities.judgmentOfLightTalent": "You should cast it whenever <0/> has dropped, which is usually on cooldown without delay. Alternatively you can ignore the debuff and just cast it whenever Judgment is available; there's nothing wrong with ignoring unimportant things to focus on important things.",
   "paladin.holy.modules.azeritetraits.glimmerOfLight": "Your usage of <0/> can be improved. To maximize the healing/damage done by <1/>, try to keep as many buffs up as possible. Avoid overwritting buffs early, this suggestion does not take priority over healing targets with low health. If two targets have similar health pools priorize the target without a glimmer as your <2/> will heal all players with active buffs.",
-  "paladin.holy.modules.azeritetraits.glimmerOfLight.patch83": "Patch 8.3 implemented a <0>glimmer cap </0>limiting the number of active <1/> buffs to {GLIMMER_CAP}.<2/>Avoid stacking haste cooldowns to prevent over-capping on <3/>.<4>More info here.</4>",
   "paladin.holy.modules.beacons.beaconHealingBreakdown.beaconHealingCaused": "Beacon healing caused",
   "paladin.holy.modules.beacons.beaconHealingBreakdown.hps": "{0} HPS",
   "paladin.holy.modules.beacons.beaconHealingBreakdown.name": "Name",
